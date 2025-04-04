@@ -7,7 +7,7 @@ This enhanced Python script takes a repository downloaded as a `.zip` file, proc
 3. Filtering capabilities to exclude specific files/directories (using glob patterns).
 4. An option to limit the inclusion of content from very large files.
 
-**The primary goal remains to prepare codebase information in a format easily consumable by Large Language Models (LLMs), but now with greater control over the generated context.** This is especially useful for models with large context windows (like Gemini 1.5 Pro).
+**The primary goal remains to prepare codebase information in a format easily consumable by Large Language Models (LLMs), but now with greater control over the generated context.** This is especially useful for models with large context windows (like Gemini 2.5 Pro).
 
 ## Table of Contents
 
